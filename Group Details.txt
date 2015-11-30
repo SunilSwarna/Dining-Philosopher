@@ -1,4 +1,6 @@
 Sunil Kumar.	CSE-44
-Raghib Musssurrat.	CSE-36
-Abhishek kumar Prasad.	CSE-2
-Vassil Abdul Razzak.	ECE-47
+Abhishek kumar Prasad cse-2
+Rizwan      CSE-30
+Anvesh Kumar    CSE-49
+Jayasree        ECE-42
+
